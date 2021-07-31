@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fahrenheit" type="id"></item>
+    <item name="celsius" type="id"></item>
+    <item name="reset" type="id"></item>
+    <item name="converter" type="id"></item>
+    <item name="txtTemp" type="id" />
+    <item name="txtResults" type="id" />
+    <item name="btnCelsius" type="id" />
+    <item name="btnFahrenheit" type="id" />
+    <item name="btnClear" type="id" />
+</resources>
